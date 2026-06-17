@@ -88,4 +88,3 @@ Kubernetes-Level-1/
 ---
 
 ### ⭐ This repository represents my hands-on Kubernetes learning journey through KodeKloud labs, focusing not only on creating resources but also on troubleshooting and understanding how Kubernetes works internally.
-updating shortly...
